@@ -54,4 +54,6 @@ Tools • Dart 2.10.4
 To check what is missing in the process to install flutter, you can use the `flutter doctor` command.
 
 ### Android Studio
-After installing, open Android Studio and configure your settings. When done, in the `welcome screen`, do the following:
+After installing, open Android Studio and configure your settings. When done, in the `welcome screen`, do the following: TODO.
+
+Remeber to configure [hardware acceleration for Linux](https://developer.android.com/studio/run/emulator-acceleration).
