@@ -62,3 +62,13 @@ After installing, open Android Studio and configure your settings. When done, in
 1. Flutter, install
 1. Accept Dart install
 1. Restart IDE
+
+### Configure Virtual Device
+1. Click on the icon in the top left corner displaying a mobile
+1. Go through the process and Remember to enable Hardware acceleration:  
+![hardware-acceleration-option](img/1.png)  
+1. Finish
+
+### Build your app to play on emulated device
+1. Open your device opening the devices menu and clicking play.
+1. Click on the play button of the top menu to build you app with device open
